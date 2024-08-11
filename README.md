@@ -25,15 +25,4 @@ Project Goals:
 - Implement a user-friendly interface for easy event management
 - Ensure seamless integration with existing calendar systems
 
-Contributing:
 
-If you'd like to contribute to this project, please fork the repository and submit a pull request. Bug reports and feature requests are also welcome!
-
-Note: You can customize this description to fit your specific project needs and goals. Good luck with your project!
-
-Also, you can add some additional information like:
-
-- Installation instructions
-- Usage examples
-- API documentation (if applicable)
-- Screenshots or demos (if applicable)
