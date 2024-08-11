@@ -15,9 +15,9 @@ Key Features:
 Technologies Used:
 
 - Python 3.x
-- Django or Flask (optional)
-- MySQL or SQLite (optional)
-- HTML/CSS/JavaScript (optional)
+- Django or Flask
+- MySQL or SQLite
+- HTML/CSS/JavaScript
 
 Project Goals:
 
